@@ -7,7 +7,7 @@
 
 ## How to use?
 - Open Counter Strike 2
-- Open loader.exe
+- Open nightcore.exe
 - Wait for menu
 - Play!
 
